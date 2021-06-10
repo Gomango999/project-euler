@@ -1,4 +1,4 @@
-/* 2783915460
+/* 
 You can just simulate permutations, O(1000000 * 10)
 
 However, we attempt a faster solution involving working out each digit of the rotation in turn.

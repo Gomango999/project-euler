@@ -1,4 +1,4 @@
-/* -59231
+/* 
 Is there an upper limit on how many primes can be produced?
 Yes: b. Therefore, at most 1000 primes.
 

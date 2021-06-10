@@ -1,6 +1,5 @@
 /*
-0.83648556
-observation: You would never bet more than 8, since you would instantly win at this ponit.
+observation: You would never bet more than 8, since you would instantly win at this point.
 
 For each value of T, there are 4 cases.
 1. W W

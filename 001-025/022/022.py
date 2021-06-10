@@ -1,4 +1,4 @@
-# 871198282
+# 
 from functools import reduce
 with open("in.txt") as f:
     l = map(lambda s : s.strip("\"\n"), f.readline().split(","))

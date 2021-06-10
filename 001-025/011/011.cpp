@@ -1,5 +1,5 @@
 /*
-70600674
+
 */
 #include <bits/stdc++.h>
 using namespace std;

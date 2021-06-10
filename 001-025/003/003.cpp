@@ -1,5 +1,5 @@
 /*
-6857
+
 */
 #include <bits/stdc++.h>
 using namespace std;
